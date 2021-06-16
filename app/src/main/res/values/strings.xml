@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MlCamera</string>
+    <string name="media_camera">Camera</string>
+    <string name="media_gallery">Gallery</string>
+    <string name="create_permission_error">Not all permissions have been granted</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_media">Media</string>
+    <string name="string_check">Check</string>
+
+</resources>
